@@ -1,0 +1,9 @@
+# train and val data
+train: ../damagedroadsdatasetalvarobasilyV2/images/train/
+val: ../damagedroadsdatasetalvarobasilyV2/images/val/
+
+# number of classes
+nc: 4
+
+# class names
+names: ['alligator cracking', 'lateral cracking', 'longitudinal cracking', 'pothole']
